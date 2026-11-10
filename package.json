@@ -413,10 +413,11 @@
     },
     "vitepress": {
       "vite": "6.4.5"
-    }
+    },
+    "minimatch": "11.0.5"
   },
   "devDependencies": {
-    "@electron/asar": "4.2.0",
+    "@electron/asar": "4.3.1",
     "@fast-check/vitest": "0.5.0",
     "@stryker-mutator/core": "10.0.0",
     "@stryker-mutator/typescript-checker": "10.0.0",
@@ -447,9 +448,9 @@
     "vitest": "5.0.3"
   },
   "optionalDependencies": {
-    "frida": "17.23.2"
+    "frida": "17.26.2"
   },
   "allowScripts": {
-    "frida@17.23.2": true
+    "frida@17.26.2": true
   }
 }
